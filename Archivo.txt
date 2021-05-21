@@ -3,3 +3,5 @@ Primer pratica Git
 Aplicaciones Web
 Grupo: C
 Grado: 3ero
+Carrera: Tecnologías de la Información
+Área: Desarrollo de Software Multiplataforma
