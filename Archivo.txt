@@ -1,10 +1,11 @@
-Primer pratica Git con GitHub
-Materia: Aplicaciones Web
-Grupo: C
-Grado: 3ero
-Carrera: Tecnologías de la Información
-Área: Desarrollo de Software Multiplataforma
-Turno: Matutino
-Docente: Jose Christian Narvaez Figueroa
-Objetivo materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
-Competencias: algun textos mas para rellenar y que se visualice el cambio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prueba GitHub Pages</title>
+</head>
+<body>
+    
+</body>
+</html>
