@@ -1,4 +1,4 @@
-Primer pratica Git 
+Primer pratica Git con GitHub
 Materia: Aplicaciones Web
 Grupo: C
 Grado: 3ero
